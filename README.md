@@ -1,152 +1,145 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- ==================== HERO SECTION ==================== --><div align="center">ADNAN AHEMAD SAYYAD
 
-<p align="left">
-My name is <b>Adnan Ahemad Sayyad</b> and I'm a <b>Full-Stack Developer</b> from India 🇮🇳
-</p>
+AI ENGINEER · FULL-STACK DEVELOPER · AGENTIC AI
 
----
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=Engineering+Intelligent+AI+Systems;Building+RAG+%26+Multi-Agent+Applications;Connecting+AI+with+Enterprise+Software;Designing+Reliable+Backend+Systems" alt="Animated professional headline"/>
+</a><p>
+  <a href="https://linkedin.com/in/adnan-sayyad">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Adnan-Ahemad">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/adnanahemadsayyad/">
+    <img src="https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:adnanahemadsayyad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:164E63,100:2563EB&height=3" alt="Section divider"/></div><!-- ==================== PROFILE ==================== -->Professional Profile
 
-<h2 align="left">About me</h2>
+AI & Full-Stack Engineer at Cognizant focused on Generative AI, retrieval-augmented generation (RAG), multi-agent orchestration, and enterprise application development.
 
-<p align="left">
-✨ Passionate and consistent learner in technology and software development<br>
-📚 Currently learning Data Structures, Backend Architecture & MERN Stack<br>
-🎯 Goal: Become a strong full-stack engineer and build scalable real-world applications<br>
-🎲 Fun fact: I enjoy solving logical problems more than designing UI 😄
-</p>
+Experienced in connecting AI capabilities with backend services, implementing Model Context Protocol (MCP) servers, and developing cloud-integrated applications. Interested in building reliable, maintainable systems that solve practical business problems.
 
----
+Technology Landscape
 
-<h2 align="left">Education</h2>
+<div align="center">AI Engineering & Agentic Systems
 
-<p align="left">
-🎓 <b>B.Tech – Information Technology</b><br>
-Yeshwantrao Chavan College of Engineering, Nagpur<br>
-CGPA: 7.80 / 10 (Expected 2026)
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat-square" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/MCP-334155?style=flat-square" alt="MCP"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/CrewAI-111827?style=flat-square" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square" alt="AutoGen"/>
+<img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/RAGAS-E5E7EB?style=flat-square&logoColor=black" alt="RAGAS"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0369A1?style=flat-square" alt="Prompt Engineering"/>Application Development
 
-<p align="left">
-🎓 <b>Diploma – Computer Engineering</b><br>
-GTMC Vishnupuri, Nanded<br>
-Percentage: 85.60% (2023)
-</p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" alt="REST APIs"/>Cloud, Data & Engineering Tools
 
----
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square" alt="Azure OpenAI"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/></div><!-- ==================== EXPERIENCE ==================== -->Professional Experience
 
-<h2 align="left">I code with</h2>
+<details open>
+<summary><b>Frontier Engineer Intern · Cognizant | August 2026 – Present</b></summary>- Developed RAG pipelines using embedding-based retrieval and CrewAI multi-agent orchestration, reducing end-to-end task latency by 30% through prompt optimization and parallel agent execution.
+- Implemented FastMCP servers with vector-based context retrieval, structured logging, error handling, and health checks.
+- Achieved sub-150 ms retrieval latency at the 95th percentile in benchmark tests.
 
-<h2 align="left">Tech Stack</h2>
+</details><details>
+<summary><b>Full Stack Developer Intern · Cognizant | January 2026 – May 2026</b></summary>- Developed .NET Core REST APIs and Angular components for enterprise applications.
+- Worked with containerization, Azure App Services, CI/CD pipelines, and build-time validation.
+- Automated insurance underwriting workflows using configurable business rules and API integrations.
 
-<div align="left">
+</details><!-- ==================== PROJECTS ==================== -->Featured Projects
 
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
-
-  <br><br>
-
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS"/>
-
-  <br><br>
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
-
-  <br><br>
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-
-  <br><br>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-
-</div>
-
-
----
-
-<h2 align="left">Projects</h2>
-
-<p align="left">
-🔹 <b>JobConnect – Full-Stack Job Portal</b><br>
-Tech: React, Node.js, Express, MongoDB<br>
-• Job search, application & dashboard features<br>
-• Authentication with demo users<br>
-• Responsive UI using Tailwind CSS
-</p>
-
-<p align="left">
-🔹 <b>Loan Eligibility Prediction System</b><br>
-Tech: Machine Learning, Scikit-learn, Naive Bayes<br>
-• Loan eligibility prediction using applicant data<br>
-• Feature engineering & preprocessing<br>
-• Achieved 80% accuracy
-</p>
-
-<p align="left">
-🔹 <b>Contact Manager API</b><br>
-Tech: Node.js, Express, MongoDB<br>
-• REST API with CRUD operations<br>
-• Tested using Postman<br>
-• Middleware-based error handling
-</p>
-
----
-
-<h2 align="left">Certifications</h2>
-
-<p align="left">
-📜 MERN Stack – Front To Back (Coursera, 2025)<br>
-📜 Oracle Java Foundations (Coursera, 2025)
-</p>
-
----
-
-<h2 align="left">Achievements</h2>
-
-<p align="left">
-🏆 Organized 3 local hackathons & coding events<br>
-🏆 Participated in 3+ hackathons (Adobe, YCCE, GTMC)
-</p>
-
----
-
-<h2 align="left">GitHub Stats</h2>
-
+<table>
+<tr>
+<td width="50%" valign="top"><h3 align="center">Nexus</h3>
+<p align="center"><b>Unified Financial AI Concierge</b></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adnan-Ahemad&show_icons=true&theme=tokyonight"/>
-</p>
+<img src="https://img.shields.io/badge/Multi--Agent-CrewAI-6D28D9?style=flat-square" alt="CrewAI"/>
+<img src="https://img.shields.io/badge/MCP-FastMCP-334155?style=flat-square" alt="FastMCP"/>
+<img src="https://img.shields.io/badge/RAG-Pipeline-0F766E?style=flat-square" alt="RAG"/>
+</p>- Built a four-agent RAG pipeline for financial queries.
+- Implemented four MCP servers with PII redaction, schema validation, and audit logging.
+- Integrated knowledge retrieval with structured financial data access.
 
+</td>
+<td width="50%" valign="top"><h3 align="center">CatalogueIQ</h3>
+<p align="center"><b>Product Intelligence Assistant</b></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnan-Ahemad&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://img.shields.io/badge/ChromaDB-Vector_Search-5B21B6?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/Hybrid_Search-Retrieval-0369A1?style=flat-square" alt="Hybrid search"/>
+<img src="https://img.shields.io/badge/RAGAS-Evaluation-374151?style=flat-square" alt="RAGAS"/>
+</p>- Improved retrieval precision by 20% using hybrid search and query expansion.
+- Evaluated response faithfulness and context relevance using RAGAS.
+- Developed a RAG workflow for product-related questions.
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top"><h3 align="center">UnderwritePro — Insurance Underwriting System</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular"/>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=flat-square" alt="REST APIs"/>
+</p>- Developed REST APIs for automated policy evaluation and underwriting rule validation.
+- Built Angular workflows for high-risk case routing and manual review prioritization.
+- Integrated configurable business rules into insurance workflows.
 
-<h2 align="left">Connect with me</h2>
+</td>
+</tr>
+</table><!-- ==================== ACHIEVEMENTS ==================== -->Competitive Programming & Achievements
 
-<p align="left">
-<a href="https://linkedin.com/in/adnan-sayyad">LinkedIn</a> •
-<a href="https://leetcode.com/adnan">LeetCode</a> •
-<a href="mailto:adnanahemadsayyad@gmail.com">Email</a>
-</p>
+<div align="center"><a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-1400%2B_Rating-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef rating"/>
+</a>
+<a href="https://leetcode.com/u/adnanahemadsayyad/">
+<img src="https://img.shields.io/badge/LeetCode-300%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode problems"/>
+</a>
+<img src="https://img.shields.io/badge/Hackathons-5%2B_Competitions-2563EB?style=for-the-badge" alt="Hackathons"/></div>- Competitive programming: Solved 300+ algorithmic problems, focusing on data structures and dynamic programming.
+- Hackathons: Competed in 5+ national-level hackathons, including Adobe, GTMC, and MIT Pune.
+- Google Build with Gemini Platform Builder Lab: Worked with enterprise security and governance controls for multi-agent workflows.
+
+Education
+
+B.Tech — Information Technology
+Yeshwantrao Chavan College of Engineering, Nagpur
+Graduated May 2026 · CGPA: 8.0/10
+
+Diploma — Computer Engineering
+GTMC Vishnupuri, Nanded
+Completed 2023 · Percentage: 85.60%
+
+Certifications
+
+- Generative AI & Agentic Systems Pathways — Udemy (2026)
+- Angular — The Complete Guide (Maximilian) (2026)
+- Introduction to Microsoft Azure Cloud Services (2025)
+- MERN Stack — Front To Back, Coursera (2025)
+- Oracle Java Foundations, Coursera (2025)
+
+<!-- ==================== CONTRIBUTION ANIMATION ==================== -->Engineering in Progress
+
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:164E63&height=2" alt="Divider"/><p>
+Building intelligent systems.<br/>
+Engineering reliable software.<br/>
+Solving real-world problems.
+</p><a href="https://github.com/Adnan-Ahemad">
+  <img src="https://img.shields.io/badge/Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+</a></div>
